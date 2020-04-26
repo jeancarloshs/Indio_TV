@@ -3,8 +3,14 @@
 =================================================================================
 #EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://iv.pe/f1N" group-title="FILMES",• FILMES
 
-#EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://iv.pe/f1N" group-title="FILMES",Telecine Action HD
+#EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://iv.pe/f1N" group-title="Filmes",Telecine Action HD
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2326
+
+#EXTINF:-1 tvg-name="Telecine Cult HD" tvg-logo="http://iv.pe/zpZ" group-title="Filmes",Telecine Cult HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2325
+
+#EXTINF:-1 tvg-name="Telecine Fun HD" tvg-logo="http://iv.pe/6QL" group-title="Filmes",Telecine Fun HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2324
 
 =================================================================================
 #EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://iv.pe/f1N" group-title="Kids",• INFANTIS
