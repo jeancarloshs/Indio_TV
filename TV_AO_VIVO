@@ -77,13 +77,33 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/2321
 #EXTINF:-1 tvg-name="KIDS" tvg-logo="http://" group-title="Kids",• INFANTIS
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Kids",• Discovery Kids
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+#EXTINF:-1 tvg-name="Boomerang SD" tvg-logo="http://iv.pe/uM5" group-title="CANAIS | ALTERNATIVOS",Boomerang SD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2208
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",• Nickelodeon
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="http://iv.pe/ZYG" group-title="CANAIS | ALTERNATIVOS",Cartoon Network HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2394
+
+#EXTINF:-1 tvg-name="Discovery Kids HD" tvg-logo="http://iv.pe/jE2" group-title="CANAIS | ALTERNATIVOS",Discovery Kids HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2387
+
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="http://iv.pe/rL7" group-title="CANAIS | ALTERNATIVOS",Disney Channel HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2382
+
+#EXTINF:-1 tvg-name="Disney Junior HD" tvg-logo="http://iv.pe/u1y" group-title="CANAIS | ALTERNATIVOS",Disney Junior HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2381
+
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="http://iv.pe/ZK2" group-title="CANAIS | ALTERNATIVOS",Gloob HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2365
+
+#EXTINF:-1 tvg-name="Nick Jr HD" tvg-logo="http://iv.pe/jPh" group-title="CANAIS | ALTERNATIVOS",Nick Jr HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2346
+
+#EXTINF:-1 tvg-name="Nick HD" tvg-logo="http://iv.pe/pGP" group-title="CANAIS | ALTERNATIVOS",Nick HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2345
+
+#EXTINF:-1 tvg-name="Tooncast HD" tvg-logo="http://iv.pe/vAJ" group-title="CANAIS | ALTERNATIVOS",Tooncast HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2316
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="quebra-de-linha" tvg-logo="http://" group-title="quebra-de-linha",--------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
