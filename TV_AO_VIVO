@@ -51,6 +51,9 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/1895
 #EXTINF:-1 tvg-name="FILMES" tvg-logo="http://" group-title="FILMES",• FILMES
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://iv.pe/HQK" group-title="CANAIS | ALTERNATIVOS",Telecine Action FHD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/29434
+
 #EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://iv.pe/f1N" group-title="Filmes",Telecine Action HD
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2326
 
