@@ -25,6 +25,15 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/2325
 #EXTINF:-1 tvg-name="Telecine Fun HD" tvg-logo="http://iv.pe/6QL" group-title="Filmes",Telecine Fun HD
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2324
 
+#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="http://iv.pe/eyt" group-title="Filmes",Telecine Pipoca HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2323
+
+#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="http://iv.pe/1q6" group-title="Filmes",Telecine Premium HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2322
+
+#EXTINF:-1 tvg-name="Telecine Touch HD" tvg-logo="http://iv.pe/n1z" group-title="Filmes",Telecine Touch HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2321
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="quebra-de-linha" tvg-logo="http://" group-title="quebra-de-linha",--------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
