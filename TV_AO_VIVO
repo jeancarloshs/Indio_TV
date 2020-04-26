@@ -34,14 +34,63 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/1895
 #EXTINF:-1 tvg-name="SERIES" tvg-logo="http://" group-title="SERIES",• SERIES NA TV
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="quebra-de-linha" tvg-logo="http://" group-title="quebra-de-linha",--------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1 tvg-name="FILMES" tvg-logo="http://" group-title="Esportes",• ESPORTES
+#EXTINF:-1 tvg-name="FILMES" tvg-logo="http://" group-title="FILMES",• FILMES & SERIES
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",A&E HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2402
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Animal Planet HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2400
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",AXN HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2399
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Discovery Theater HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2385
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Fox HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2374
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Fox Premium 1 HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2372
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Fox Premium 2 HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2371
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",FX HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2368
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",ID: Investigacao Discovery HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2119
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Lifetime HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2356
+
+ESTA FALTANDO SONY
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Studio Universal HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2329
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Syfy HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2328
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",TBS HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2327
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",TNT Series HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2317
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Universal TV HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2315
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Warner Channel HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2313
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="quebra-de-linha" tvg-logo="http://" group-title="quebra-de-linha",--------------------------------------------------------
@@ -51,8 +100,46 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/1895
 #EXTINF:-1 tvg-name="FILMES" tvg-logo="http://" group-title="FILMES",• FILMES
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://iv.pe/HQK" group-title="CANAIS | ALTERNATIVOS",Telecine Action FHD
-http://vl.pe:80/5521972121851/TFlwjU0lbs/29434
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",AMC HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2401
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Canal Brasil FHD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/29402
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Cinemax HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2393
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2360
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO 2 HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2362
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO Family HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2361
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO Mundi HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2355
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO Pop HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2353
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO Signature HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2358
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",HBO Xtreme HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2354
+
+ESTA FALTANDO HB+
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Megapix HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2352
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Paramount Channel HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2343
+
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Space HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2333
 
 #EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="http://iv.pe/f1N" group-title="Filmes",Telecine Action HD
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2326
@@ -72,12 +159,19 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/2322
 #EXTINF:-1 tvg-name="Telecine Touch HD" tvg-logo="http://iv.pe/n1z" group-title="Filmes",Telecine Touch HD
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2321
 
+#EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",TNT HD
+http://vl.pe:80/5521972121851/TFlwjU0lbs/2318
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="quebra-de-linha" tvg-logo="http://" group-title="quebra-de-linha",--------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1 tvg-name="KIDS" tvg-logo="http://" group-title="Kids",• INFANTIS
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#EXTINF:-1 tvg-name="quebra-de-linha" tvg-logo="http://" group-title="quebra-de-linha",--------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 #EXTINF:-1 tvg-name="Boomerang SD" tvg-logo="http://iv.pe/uM5" group-title="CANAIS | ALTERNATIVOS",Boomerang SD
