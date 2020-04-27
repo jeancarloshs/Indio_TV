@@ -112,7 +112,7 @@ http://vl.pe:80/5521972121851/TFlwjU0lbs/2399
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2385
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox
-https://stream2.canais.info/a/hls1/fox.m3u8?expires=1587974073&token=d1d0e003d1148a21d78af58af73c2a09
+http://51.79.20.209:80/live/12345678/12345678/2207.m3u8
 
 #EXTINF:-1 group-title="CANAIS | ALTERNATIVOS",Fox HD
 http://vl.pe:80/5521972121851/TFlwjU0lbs/2374
